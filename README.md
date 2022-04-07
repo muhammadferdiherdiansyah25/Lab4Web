@@ -56,3 +56,5 @@ Tambahkan Layout untuk menu About
 ![Gambar](BB13.PNG)
 
 ![Gambar](BB14.PNG)
+
+![Gambar](BB7.PNG)
