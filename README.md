@@ -69,3 +69,11 @@ Tambahkan layout untuk menu Contact
 ![Gambar](BB16.PNG)
 
 ![Gambar](BB8.PNG)
+
+
+Membuat CSS Style.
+
+![Gambar](ST1.PNG)
+![Gambar](ST2.PNG)
+![Gambar](ST3.PNG)
+![Gambar](ST4.PNG)
