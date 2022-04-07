@@ -11,5 +11,5 @@ Dosen   : Agung Nugroho,S.Kom.,M.Kom.,
 
 1. Membuat Box Elemen 
 
-
+![Gambar](BB1.PNG)
 
