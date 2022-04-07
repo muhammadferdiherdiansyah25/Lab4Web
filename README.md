@@ -32,3 +32,8 @@ Membuat Sidebar Widget
 ![Gambar](BB11.PNG)
 ![Gambar](BB5.PNG)
 
+
+Mengatur Footer
+
+![Gambar](BB12.PNG)
+![Gambar](BB6.PNG)
