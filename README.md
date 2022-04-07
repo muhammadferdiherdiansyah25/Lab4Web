@@ -64,6 +64,6 @@ Tambahkan layout untuk menu Contact
 => yang berisi form isian: nama, email, message, dll
 
 
-![Gambar](BB16.PNG)
+![Gambar](BB15.PNG)
 
-![Gambar](BB17.PNG)
+![Gambar](BB16.PNG)
