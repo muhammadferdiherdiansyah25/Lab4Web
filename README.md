@@ -67,3 +67,5 @@ Tambahkan layout untuk menu Contact
 ![Gambar](BB15.PNG)
 
 ![Gambar](BB16.PNG)
+
+![Gambar](BB8.PNG)
