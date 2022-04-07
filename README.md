@@ -38,3 +38,8 @@ Mengatur Footer
 ![Gambar](BB12.PNG)
 ![Gambar](BB6.png)
 
+
+Menambahkan Elemen lainnya pada Main Content
+
+![Gambar](BB5.PNG)
+
