@@ -19,3 +19,6 @@ Mengatur Clearfix Element
 
 ![Gambar](BB2.PNG)
 ![Gambar](BB3.PNG)
+
+Membuat Layout Sederhana
+
