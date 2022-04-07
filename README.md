@@ -58,3 +58,12 @@ Tambahkan Layout untuk menu About
 ![Gambar](BB14.PNG)
 
 ![Gambar](BB7.PNG)
+
+
+Tambahkan layout untuk menu Contact
+=> yang berisi form isian: nama, email, message, dll
+
+
+![Gambar](BB16.PNG)
+
+![Gambar](BB17.PNG)
