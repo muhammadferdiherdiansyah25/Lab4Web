@@ -14,3 +14,8 @@ Dosen   : Agung Nugroho,S.Kom.,M.Kom.,
 ![Gambar](BB1.PNG)
 ![Gambar](BB2.PNG)
 ![Gambar](BB3.PNG)
+
+Mengatur Clearfix Element
+
+![Gambar](BB2.PNG)
+![Gambar](BB3.PNG)
