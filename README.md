@@ -29,5 +29,6 @@ Membuat Layout Sederhana
 ![Gambar](BB4.PNG)
 
 Membuat Sidebar Widget
+![Gambar](BB11.PNG)
 ![Gambar](BB5.PNG)
 
