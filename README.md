@@ -49,3 +49,10 @@ Menambahkan Content Artikel
 ![Gambar](BB12.PNG)
 ![Gambar](BB6.png)
 
+Tambahkan Layout untuk menu About
+=> buat single layout yang berisi deskripsi, portfolio, dll
+
+
+![Gambar](BB13.PNG)
+
+![Gambar](BB14.PNG)
