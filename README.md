@@ -23,3 +23,7 @@ Mengatur Clearfix Element
 Membuat Layout Sederhana
 
 ![Gambar](BB9.PNG)
+![Gambar](BB10.PNG)
+![Gambar](BB11.PNG)
+![Gambar](BB12.PNG)
+![Gambar](BB4.PNG)
