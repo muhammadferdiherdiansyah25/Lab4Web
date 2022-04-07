@@ -43,3 +43,9 @@ Menambahkan Elemen lainnya pada Main Content
 
 ![Gambar](BB5.PNG)
 
+
+Menambahkan Content Artikel
+
+![Gambar](BB12.PNG)
+![Gambar](BB6.png)
+
